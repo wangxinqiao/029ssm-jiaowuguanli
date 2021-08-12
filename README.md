@@ -50,6 +50,7 @@ Web框架：SpringMVC ORM框架：Mybatis 安全框架：Shiro
 ```
 
 ### 运行截图
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0812/163257_80af92c3_9576610.jpeg "WechatIMG321.jpeg")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0316/093132_c9681dbb_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0316/093146_750f322c_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0316/093257_17271bef_863230.png "屏幕截图.png")
