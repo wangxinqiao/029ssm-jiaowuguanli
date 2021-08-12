@@ -20,7 +20,7 @@
 ````
 源码获取：[ **点此获取** ](http://www.shuyue.fun/index.php?type=productinfo&id=130)
 
-#### 环境需要
+### 环境需要
 ```
 1.运行环境：最好是java jdk 1.8，我们在这个平台上运行的。其他版本理论上也可以。
 2.IDE环境：IDEA，Eclipse,Myeclipse都可以。推荐IDEA;
@@ -38,7 +38,7 @@ Web框架：SpringMVC ORM框架：Mybatis 安全框架：Shiro
 前端框架：Bootstrap
 ```
 
-#### 使用说明
+### 使用说明
 ```
 1. 使用IDEA/Eclipse/MyEclipse导入项目，Eclipse/MyEclipse导入时，若为maven项目请选择maven;若为maven项目，导入成功后请执行maven clean;maven install命令，下载所需jar包；
 2. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
@@ -49,7 +49,7 @@ Web框架：SpringMVC ORM框架：Mybatis 安全框架：Shiro
 学生账号：10001 密码:123
 ```
 
-#### 运行截图
+### 运行截图
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0316/093132_c9681dbb_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0316/093146_750f322c_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0316/093257_17271bef_863230.png "屏幕截图.png")
