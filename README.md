@@ -13,11 +13,11 @@
 ```
 
 演示地址：[ **点此查看** ](http://www.csbishe.cn:15000/Examination_System/login.jsp;jsessionid=66941FEF358E181CC130026416994339)
-
+````
 管理员账号/密码：admin/admin
 学生账号/密码： 10001/123456
 教师账号/密码： 1001/123456
-
+````
 源码获取：[ **点此获取** ](http://www.shuyue.fun/index.php?type=productinfo&id=130)
 
 #### 环境需要
